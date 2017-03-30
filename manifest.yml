@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: devtest123123122
+  host: devtest123123122
+  disk_quota: 1024M
+  services:
+  - Application Security on Cloud-4s
